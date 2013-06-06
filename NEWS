@@ -1,4 +1,7 @@
 VERSION	NEWS
+
+1.03	paper is out in BMC Genomics.  CITATION file added.
+
 1.0.2	fixed bug in danes generic, now works with methylumi objects again. Thanks to Joana Viana for bug report.
 
 1.0.1	corrected error in combo.R (thanks to Marco Boks for bug report)

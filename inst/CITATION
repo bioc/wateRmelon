@@ -1,0 +1,21 @@
+citHeader("To cite package 'wateRmelon' in publications use:")
+year <- 2013
+vers <- paste("R package version", meta$Version)
+citEntry(entry = "Article",
+title = "A data-driven approach to preprocessing Illumina 450K methylation array data",
+author = personList(as.person("R Pidsley"),
+as.person("CC Wong"),
+as.person("M Volta"),
+as.person("K Lunnon"),
+as.person("J Mill"),
+as.person("LC Schalkwyk")
+),
+journal = "BMC Genomics",
+volume = "14",
+number = "1",
+pages = "293",
+year = year,
+note = vers,
+textVersion ="Pidsley R, Wong CC, Volta M, Lunnon K, Mill J, Schalkwyk LC (2013). A data-driven approach to preprocessing Illumina 450K methylation array data. BMC Genomics 14(1):293."
+)
+
