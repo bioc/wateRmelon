@@ -1,5 +1,8 @@
 VERSION	NEWS
-1.3.1	Changed annotation method for tost() (minfi and methylumi methods.
+1.2.2	fixed danes ret2=TRUE bug.  Thanks to Allegra A. Petti for
+	bug report
+
+1.2.1	fixed annotation method for tost() minfi and methylumi methods.
 	thanks to several users for bug reports!
 
 0.99.16	replaced dependency on ROCR with ROC (bioconductor) package
