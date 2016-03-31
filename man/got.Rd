@@ -1,7 +1,7 @@
 \name{got}
 \alias{got}
 \alias{fot}
-\alias{pop}
+%\alias{pop}
 \title{
 Internal functions for Illumina i450 normalization functions
 }
@@ -13,14 +13,14 @@ from IlluminaHumanMethylation450k.db
 \usage{
 got(obj)
 fot(x)
-pop(fd,rn)
+%pop(fd,rn)
 }
 %- maybe also 'usage' for other objects documented here.
 \arguments{
   \item{x}{  a MethyLumiSet }
   \item{obj}{  a MethylSet  }
-  \item{fd}{ a character vector of the desired annotation columns    }
-  \item{rn}{ a character vector of the desired features   }
+%  \item{fd}{ a character vector of the desired annotation columns    }
+%  \item{rn}{ a character vector of the desired features   }
 
 }
 \details{
